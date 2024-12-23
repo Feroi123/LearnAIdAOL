@@ -184,7 +184,7 @@ LearnAid berkomitmen untuk mendukung pelajar dalam mencapai pendidikan berkualit
 1. Clone repositori:
    <br> ```sh
    git clone https://github.com/username-anda/learnaid.git
-   ```
+   <br> ```
 2. Instal dependensi:
    <br> ```sh 
    composer install
