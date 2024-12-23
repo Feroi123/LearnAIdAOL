@@ -182,27 +182,26 @@ LearnAid berkomitmen untuk mendukung pelajar dalam mencapai pendidikan berkualit
 
 ### Instalasi
 1. Clone repositori:
-   <br>
-   sh git clone https://github.com/username-anda/learnaid.git
-   
-3. Instal dependensi:
-   <br>
+   <br> ```sh
+   <br> git clone https://github.com/username-anda/learnaid.git
+   <br> ```
+2. Instal dependensi:
+   <br> ```sh 
    sh composer install
-   
-5. Konfigurasi lingkungan:
-   <br>
-   sh cp .env.example .env
-   <br>
-   php artisan key:generate
-   
-7. Migrasi database:
-   <br>
-   sh php artisan migrate
-   
-9. Jalankan aplikasi:
-   <br>
-   sh php artisan serve
-   
+   <br> ```
+3. Konfigurasi lingkungan:
+   <br> ```sh
+   <br> cp .env.example .env
+   <br> php artisan key:generate
+   <br> ```
+5. Migrasi database:
+   <br> ```sh
+   <br>php artisan migrate
+   <br> ```
+6. Jalankan aplikasi:
+   <br> ```sh
+   <br> php artisan serve
+   <br> ```
 
 ---
 
