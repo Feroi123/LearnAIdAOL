@@ -187,7 +187,7 @@ LearnAid berkomitmen untuk mendukung pelajar dalam mencapai pendidikan berkualit
    <br> ```
 2. Instal dependensi:
    <br> ```sh 
-   sh composer install
+   <br> composer install
    <br> ```
 3. Konfigurasi lingkungan:
    <br> ```sh
@@ -196,7 +196,7 @@ LearnAid berkomitmen untuk mendukung pelajar dalam mencapai pendidikan berkualit
    <br> ```
 5. Migrasi database:
    <br> ```sh
-   <br>php artisan migrate
+   <br> php artisan migrate
    <br> ```
 6. Jalankan aplikasi:
    <br> ```sh
